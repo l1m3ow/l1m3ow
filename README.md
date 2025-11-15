@@ -13,6 +13,7 @@ Write two tutorials for the first year of study. The first tutorial will cover t
 Thank you all for taking the time to read and study the materials. And for following me on my journey of plan implementation.
 
 <div align="center">
-  <img alt="Foto 2" src="./gif1.gif" />
+  <img src="./gif1.gif" width="350" height="200" alt="Gif 1"> 
 </div>
+
 
